@@ -1,0 +1,6 @@
+author=mezzoemrys
+description=You are saving your platoon from certain death by staying behind to fight off the enemy forces and save time.
+name=Brutal Melee
+screen_height=480
+screen_width=640
+script=main.js
